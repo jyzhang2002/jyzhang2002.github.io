@@ -29,11 +29,11 @@ author:
   location         : # "Earth"
   employer         : # "National University of Singapore"
   uri              : # URL
-  email            : "junyanzhang0317@gmail.com"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
+  email            : "junyanzhang0317@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?user=zZNvwjgAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
