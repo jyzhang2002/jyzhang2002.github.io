@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-My name is **Zhang Junyan (张骏琰)**. I am currently a Master’s student at the **National University of Singapore**.  
-Previously, I worked as a **Research Assistant** at the **Hong Kong University of Science and Technology (Guangzhou)**. Before that, I received my **B.Eng. degree in Mechatronic Engineering** from **Tongji University**.
+My name is **Zhang Junyan (张骏琰)**. I am currently a Master’s student at the **National University of Singapore**. Previously, I worked as a **Research Assistant** at the **Hong Kong University of Science and Technology (Guangzhou)**. Before that, I received my **B.Eng. degree in Mechatronic Engineering** from **Tongji University**.
 
-I will join **HKUST (Guangzhou)** as a **PhD student in Artificial Intelligence** in **Fall 2026**. My research interests include **Natural Language Processing** and **Trustworthy AI**.
+I will join **HKUST (Guangzhou)** as a **PhD student in Artificial Intelligence** in **Fall 2026**. My research interests include **Natural Language Processing** and **Trustworthy AI**. I have collaborated closely with [Yiming Huang](https://yiminghuang033.github.io/) on multiple research projects.
+
 
 ## Publications
 
